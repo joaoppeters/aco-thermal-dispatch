@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="NBA_data.SeasonsFinalsProject.main_season_finals.NBA_Teams_Abbreviations" />
+          <option value="NBA_data.SeasonsFinalsProject.main_season_finals.*" />
+          <option value="NBA_data.Seasons.Playoffs.playoffs_nbaref.NBA_data" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
